@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroLopez96/blockchain-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroLopez96/blockchain-nodejs/issues"
+  },
+  "homepage": "https://github.com/AlejandroLopez96/blockchain-nodejs#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "hex2ascii": "0.0.3"
+  }
+}
